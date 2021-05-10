@@ -7411,3 +7411,131 @@
 .md-yard:after {
   content: '\eba0';
 }
+
+.md-ads_click:after {
+  content: '\eba2';
+}
+
+.md-area_chart:after {
+  content: '\eba3';
+}
+
+.md-back_hand:after {
+  content: '\eba5';
+}
+
+.md-checklist:after {
+  content: '\eba7';
+}
+
+.md-checklist_rtl:after {
+  content: '\eba8';
+}
+
+.md-compost:after {
+  content: '\eba9';
+}
+
+.md-cruelty_free:after {
+  content: '\ebaa';
+}
+
+.md-data_exploration:after {
+  content: '\ebac';
+}
+
+.md-disabled_visible:after {
+  content: '\ebae';
+}
+
+.md-document_scanner:after {
+  content: '\ebb0';
+}
+
+.md-draw:after {
+  content: '\ebb2';
+}
+
+.md-drive_file_move_rtl:after {
+  content: '\ebb4';
+}
+
+.md-edit_calendar:after {
+  content: '\ebb6';
+}
+
+.md-edit_note:after {
+  content: '\ebb8';
+}
+
+.md-emergency:after {
+  content: '\ebb9';
+}
+
+.md-free_cancellation:after {
+  content: '\ebbb';
+}
+
+.md-front_hand:after {
+  content: '\ebbd';
+}
+
+.md-generating_tokens:after {
+  content: '\ebbf';
+}
+
+.md-group_off:after {
+  content: '\ebc1';
+}
+
+.md-hotel_class:after {
+  content: '\ebc3';
+}
+
+.md-incomplete_circle:after {
+  content: '\ebc5';
+}
+
+.md-new_label:after {
+  content: '\ebc6';
+}
+
+.md-personal_injury:after {
+  content: '\ebc8';
+}
+
+.md-pin_end:after {
+  content: '\ebca';
+}
+
+.md-pin_invoke:after {
+  content: '\ebcb';
+}
+
+.md-private_connectivity:after {
+  content: '\ebcc';
+}
+
+.md-real_estate_agent:after {
+  content: '\ebce';
+}
+
+.md-recycling:after {
+  content: '\ebd0';
+}
+
+.md-space_dashboard:after {
+  content: '\ebd1';
+}
+
+.md-tips_and_updates:after {
+  content: '\ebd3';
+}
+
+.md-water_drop:after {
+  content: '\ebd5';
+}
+
+.md-waving_hand:after {
+  content: '\ebd7';
+}

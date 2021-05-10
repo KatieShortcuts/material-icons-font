@@ -920,6 +920,10 @@
   content: '\e0c5';
 }
 
+.md-border_color:before {
+  content: '\e0c6';
+}
+
 .md-border_horizontal:after {
   content: '\e0c7';
 }
@@ -11978,4 +11982,224 @@
 
 .md-yard:before {
   content: '\eba1';
+}
+
+.md-ads_click:after {
+  content: '\eba2';
+}
+
+.md-area_chart:after {
+  content: '\eba3';
+}
+
+.md-area_chart:before {
+  content: '\eba4';
+}
+
+.md-back_hand:after {
+  content: '\eba5';
+}
+
+.md-back_hand:before {
+  content: '\eba6';
+}
+
+.md-checklist:after {
+  content: '\eba7';
+}
+
+.md-checklist_rtl:after {
+  content: '\eba8';
+}
+
+.md-compost:after {
+  content: '\eba9';
+}
+
+.md-cruelty_free:after {
+  content: '\ebaa';
+}
+
+.md-cruelty_free:before {
+  content: '\ebab';
+}
+
+.md-data_exploration:after {
+  content: '\ebac';
+}
+
+.md-data_exploration:before {
+  content: '\ebad';
+}
+
+.md-disabled_visible:after {
+  content: '\ebae';
+}
+
+.md-disabled_visible:before {
+  content: '\ebaf';
+}
+
+.md-document_scanner:after {
+  content: '\ebb0';
+}
+
+.md-document_scanner:before {
+  content: '\ebb1';
+}
+
+.md-draw:after {
+  content: '\ebb2';
+}
+
+.md-draw:before {
+  content: '\ebb3';
+}
+
+.md-drive_file_move_rtl:after {
+  content: '\ebb4';
+}
+
+.md-drive_file_move_rtl:before {
+  content: '\ebb5';
+}
+
+.md-edit_calendar:after {
+  content: '\ebb6';
+}
+
+.md-edit_calendar:before {
+  content: '\ebb7';
+}
+
+.md-edit_note:after {
+  content: '\ebb8';
+}
+
+.md-emergency:after {
+  content: '\ebb9';
+}
+
+.md-emergency:before {
+  content: '\ebba';
+}
+
+.md-free_cancellation:after {
+  content: '\ebbb';
+}
+
+.md-free_cancellation:before {
+  content: '\ebbc';
+}
+
+.md-front_hand:after {
+  content: '\ebbd';
+}
+
+.md-front_hand:before {
+  content: '\ebbe';
+}
+
+.md-generating_tokens:after {
+  content: '\ebbf';
+}
+
+.md-generating_tokens:before {
+  content: '\ebc0';
+}
+
+.md-group_off:after {
+  content: '\ebc1';
+}
+
+.md-group_off:before {
+  content: '\ebc2';
+}
+
+.md-hotel_class:after {
+  content: '\ebc3';
+}
+
+.md-hotel_class:before {
+  content: '\ebc4';
+}
+
+.md-incomplete_circle:after {
+  content: '\ebc5';
+}
+
+.md-new_label:after {
+  content: '\ebc6';
+}
+
+.md-new_label:before {
+  content: '\ebc7';
+}
+
+.md-personal_injury:after {
+  content: '\ebc8';
+}
+
+.md-personal_injury:before {
+  content: '\ebc9';
+}
+
+.md-pin_end:after {
+  content: '\ebca';
+}
+
+.md-pin_invoke:after {
+  content: '\ebcb';
+}
+
+.md-private_connectivity:after {
+  content: '\ebcc';
+}
+
+.md-private_connectivity:before {
+  content: '\ebcd';
+}
+
+.md-real_estate_agent:after {
+  content: '\ebce';
+}
+
+.md-real_estate_agent:before {
+  content: '\ebcf';
+}
+
+.md-recycling:after {
+  content: '\ebd0';
+}
+
+.md-space_dashboard:after {
+  content: '\ebd1';
+}
+
+.md-space_dashboard:before {
+  content: '\ebd2';
+}
+
+.md-tips_and_updates:after {
+  content: '\ebd3';
+}
+
+.md-tips_and_updates:before {
+  content: '\ebd4';
+}
+
+.md-water_drop:after {
+  content: '\ebd5';
+}
+
+.md-water_drop:before {
+  content: '\ebd6';
+}
+
+.md-waving_hand:after {
+  content: '\ebd7';
+}
+
+.md-waving_hand:before {
+  content: '\ebd8';
 }
