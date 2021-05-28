@@ -12143,3 +12143,99 @@
 .md-waving_hand:before {
   content: '\ebd8';
 }
+
+.md-airline_stops:after {
+  content: '\ebd9';
+}
+
+.md-airlines:after {
+  content: '\ebda';
+}
+
+.md-airlines:before {
+  content: '\ebdb';
+}
+
+.md-apps_outage:after {
+  content: '\ebdc';
+}
+
+.md-browser_updated:after {
+  content: '\ebdd';
+}
+
+.md-co2:after {
+  content: '\ebde';
+}
+
+.md-comments_disabled:after {
+  content: '\ebdf';
+}
+
+.md-comments_disabled:before {
+  content: '\ebe0';
+}
+
+.md-connecting_airports:after {
+  content: '\ebe1';
+}
+
+.md-expand_circle_down:after {
+  content: '\ebe2';
+}
+
+.md-expand_circle_down:before {
+  content: '\ebe3';
+}
+
+.md-flight_class:after {
+  content: '\ebe4';
+}
+
+.md-flight_class:before {
+  content: '\ebe5';
+}
+
+.md-gif_box:after {
+  content: '\ebe6';
+}
+
+.md-gif_box:before {
+  content: '\ebe7';
+}
+
+.md-group_remove:after {
+  content: '\ebe8';
+}
+
+.md-group_remove:before {
+  content: '\ebe9';
+}
+
+.md-interests:after {
+  content: '\ebea';
+}
+
+.md-interests:before {
+  content: '\ebeb';
+}
+
+.md-mode_of_travel:after {
+  content: '\ebec';
+}
+
+.md-soup_kitchen:after {
+  content: '\ebed';
+}
+
+.md-soup_kitchen:before {
+  content: '\ebee';
+}
+
+.md-workspace_premium:after {
+  content: '\ebef';
+}
+
+.md-workspace_premium:before {
+  content: '\ebf0';
+}

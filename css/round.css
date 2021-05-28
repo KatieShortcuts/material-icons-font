@@ -652,10 +652,6 @@
   content: '\e0c5';
 }
 
-.md-border_color:before {
-  content: '\e0c6';
-}
-
 .md-border_horizontal:after {
   content: '\e0c7';
 }
@@ -7542,4 +7538,64 @@
 
 .md-waving_hand:after {
   content: '\ebd7';
+}
+
+.md-airline_stops:after {
+  content: '\ebd9';
+}
+
+.md-airlines:after {
+  content: '\ebda';
+}
+
+.md-apps_outage:after {
+  content: '\ebdc';
+}
+
+.md-browser_updated:after {
+  content: '\ebdd';
+}
+
+.md-co2:after {
+  content: '\ebde';
+}
+
+.md-comments_disabled:after {
+  content: '\ebdf';
+}
+
+.md-connecting_airports:after {
+  content: '\ebe1';
+}
+
+.md-expand_circle_down:after {
+  content: '\ebe2';
+}
+
+.md-flight_class:after {
+  content: '\ebe4';
+}
+
+.md-gif_box:after {
+  content: '\ebe6';
+}
+
+.md-group_remove:after {
+  content: '\ebe8';
+}
+
+.md-interests:after {
+  content: '\ebea';
+}
+
+.md-mode_of_travel:after {
+  content: '\ebec';
+}
+
+.md-soup_kitchen:after {
+  content: '\ebed';
+}
+
+.md-workspace_premium:after {
+  content: '\ebef';
 }
