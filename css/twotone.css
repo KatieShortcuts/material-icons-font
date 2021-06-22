@@ -12239,3 +12239,11 @@
 .md-workspace_premium:before {
   content: '\ebf0';
 }
+
+.md-switch_access_shortcut:after {
+  content: '\ebf1';
+}
+
+.md-switch_access_shortcut_add:after {
+  content: '\ebf2';
+}
