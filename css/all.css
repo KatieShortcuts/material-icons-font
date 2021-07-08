@@ -12303,3 +12303,43 @@
 .md-switch_access_shortcut_add:after {
   content: '\ebf2';
 }
+
+.md-interpreter_mode:after {
+  content: '\ebf3';
+}
+
+.md-interpreter_mode:before {
+  content: '\ebf4';
+}
+
+.md-playlist_add_check_circle:after {
+  content: '\ebf5';
+}
+
+.md-playlist_add_check_circle:before {
+  content: '\ebf6';
+}
+
+.md-playlist_add_circle:after {
+  content: '\ebf7';
+}
+
+.md-playlist_add_circle:before {
+  content: '\ebf8';
+}
+
+.md-south_america:after {
+  content: '\ebf9';
+}
+
+.md-south_america:before {
+  content: '\ebfa';
+}
+
+.md-vaccines:after {
+  content: '\ebfb';
+}
+
+.md-vaccines:before {
+  content: '\ebfc';
+}
