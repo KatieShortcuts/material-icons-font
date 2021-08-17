@@ -3,10 +3,10 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
 
-const isDefinition = tag => tag === 'defs';
-const isClipPath = tag => tag === 'clipPath';
-const isUse = tag => tag === 'use';
-const isShape = tag => {
+const isDefinition = (tag) => tag === 'defs';
+const isClipPath = (tag) => tag === 'clipPath';
+const isUse = (tag) => tag === 'use';
+const isShape = (tag) => {
 	switch (tag) {
 		case 'path':
 		case 'circle':
@@ -35,11 +35,11 @@ const isTransparent = (node, filename) => {
 		console.log(
 			'Invalid opacity value in ' + filename + ': ' + node.attribs.opacity
 		);
-		return value < 0.5;
-
-		throw new Error(
-			'Invalid opacity value in ' + filename + ': ' + node.attribs.opacity
-		);
+		const transparent = value < 0.5;
+		if (!transparent) {
+			delete node.attribs.opacity;
+		}
+		return transparent;
 	}
 
 	if (node.attribs['fill-opacity'] !== void 0) {
@@ -53,20 +53,17 @@ const isTransparent = (node, filename) => {
 				': ' +
 				node.attribs['fill-opacity']
 		);
-		return value < 0.5;
-
-		throw new Error(
-			'Invalid fill-opacity value in ' +
-				filename +
-				': ' +
-				node.attribs['fill-opacity']
-		);
+		const transparent = value < 0.5;
+		if (!transparent) {
+			delete node.attribs['fill-opacity'];
+		}
+		return transparent;
 	}
 
 	return false;
 };
 
-const getClipId = value => {
+const getClipId = (value) => {
 	if (value.slice(0, 1) === '#') {
 		return value.slice(1);
 	}
@@ -99,7 +96,7 @@ module.exports = (code, filename) => {
 				);
 			}
 
-			let $child = cheerio(child),
+			let $child = $opaqueNode(child),
 				children = $child.children();
 
 			children.each((index2, child2) => {
@@ -157,7 +154,7 @@ module.exports = (code, filename) => {
 				// id
 			};
 
-			cheerio(child)
+			$opaqueNode(child)
 				.children()
 				.each((index2, child2) => {
 					if (index2 > 0) {
@@ -237,7 +234,7 @@ module.exports = (code, filename) => {
 	}
 
 	// Check for nodes that use ids
-	shapes.forEach(shape => {
+	shapes.forEach((shape) => {
 		if (shape.id === void 0) {
 			return;
 		}
@@ -261,12 +258,12 @@ module.exports = (code, filename) => {
 	});
 
 	// Re-check clipPath and defs for links
-	Object.keys(clipPaths).forEach(id => {
+	Object.keys(clipPaths).forEach((id) => {
 		if (!clipPaths[id].opaque && !clipPaths[id].transparent) {
 			throw new Error('Unlinked <clipPath> with id ' + id + ' in ' + filename);
 		}
 	});
-	Object.keys(defs).forEach(id => {
+	Object.keys(defs).forEach((id) => {
 		if (!defs[id].opaque && !defs[id].transparent) {
 			throw new Error('Unlinked <defs> with id ' + id + ' in ' + filename);
 		}
@@ -284,7 +281,7 @@ module.exports = (code, filename) => {
 
 	// Find all nodes to remove
 	let remove = [];
-	shapes.forEach(shape => {
+	shapes.forEach((shape) => {
 		if (shape.transparent) {
 			remove.push($opaqueChildren.eq(shape.index));
 			$transparentChildren.eq(shape.index).removeAttr('opacity');
@@ -294,28 +291,20 @@ module.exports = (code, filename) => {
 		}
 	});
 
-	Object.keys(defs).forEach(id => {
+	Object.keys(defs).forEach((id) => {
 		throw new Error('(needs testing!) Got definitions to split in ' + filename);
 		let item = defs[id];
 		if (!item.opaque) {
-			remove.push(
-				$opaqueChildren
-					.eq(item.index)
-					.children()
-					.eq(item.index2)
-			);
+			remove.push($opaqueChildren.eq(item.index).children().eq(item.index2));
 		}
 		if (!item.transparent) {
 			remove.push(
-				$transparentChildren
-					.eq(item.index)
-					.children()
-					.eq(item.index2)
+				$transparentChildren.eq(item.index).children().eq(item.index2)
 			);
 		}
 	});
 
-	Object.keys(clipPaths).forEach(id => {
+	Object.keys(clipPaths).forEach((id) => {
 		throw new Error('(needs testing!) Got clipPath to split in ' + filename);
 		let item = clipPaths[id];
 		if (!item.opaque) {
@@ -327,7 +316,7 @@ module.exports = (code, filename) => {
 	});
 
 	// Remove them all!
-	remove.forEach(node => {
+	remove.forEach((node) => {
 		node.remove();
 	});
 

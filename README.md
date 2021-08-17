@@ -195,7 +195,7 @@ All icons are available with [Iconify JavaScript framework](https://iconify.desi
 
 #### What is Iconify?
 
-Iconify project makes it easy to add SVG icons to websites and offers over 40,000 icons to choose from.
+Iconify project makes it easy to add SVG icons to websites and offers over 100,000 icons to choose from.
 
 You can use Iconify not only with this icon set, but also [Templarian's Material Design Icons](https://iconify.design/icon-sets/mdi/), [Material Design Light](https://iconify.design/icon-sets/mdi-light/), [FontAwesome 5](https://iconify.design/icon-sets/fa-regular/) and many other icon sets on the same page without loading massive fonts.
 
@@ -208,7 +208,7 @@ Iconify is designed to be as easy to use as possible. It uses icon placeholder s
 Add this line to your page to load Iconify:
 
 ```
-<script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
+<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 ```
 
 you can add it to `<head>` section of the page or before `</body>`.
@@ -216,18 +216,12 @@ you can add it to `<head>` section of the page or before `</body>`.
 To add any icon, write something like this:
 
 ```
-<span class="iconify" data-icon="ic:baseline-access-time" data-inline="false"></span>
-```
-
-or this:
-
-```
-<iconify-icon data-icon="ic:twotone-account-circle"></iconify-icon>
+<span class="iconify" data-icon="ic:baseline-access-time"></span>
 ```
 
 There are 2 small differences in icon names when using Iconify: icons have "ic:" prefix and underscores in icon name have been replaced by the dash.
 
-See [how to use Iconify](https://iconify.design/docs/iconify-in-pages/) tutorial and [browse MDI icons list](https://iconify.design/icon-sets/ic/) to get code for each icon.
+See [how to use Iconify](https://docs.iconify.design/icon-components/svg-framework/) tutorial and [browse Google Material Design icons list](https://icon-sets.iconify.design/ic/) to get code for each icon.
 
 #### Stylesheet
 
@@ -235,23 +229,20 @@ Iconify is not specific to this icon set. It does not force font size, so by def
 
 ### React components
 
-No need to reinvent components. See [Iconify for React](https://github.com/iconify/iconify-react).
+No need to reinvent components. See [Iconify for React](https://docs.iconify.design/icon-components/react/).
 
 How to use it:
 
 ```
-npm install @iconify/react @iconify/icons-ic
+npm install @iconify/react
 ```
 
 ```js
-import { Icon, InlineIcon } from '@iconify/react';
-import face from '@iconify/icons-ic/baseline-face';
-import home from '@iconify/icons-ic/twotone-home';
+import { Icon } from '@iconify/react';
 ```
 
 ```jsx
-<Icon icon={home} />
-<p>This is some text with <InlineIcon icon={face} /></p>
+<Icon icon="ic:twotone-home" />
 ```
 
 ## License

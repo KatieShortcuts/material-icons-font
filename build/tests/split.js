@@ -20,7 +20,7 @@ const throwError = (name, type, code, expected, got) => {
 function test(name, code, expectedOpaque, expectedTransparent) {
 	let result = splitIcon(code, name);
 	if (result.opaque !== expectedOpaque) {
-		throwError(name, 'full', code, expectedOpaque, result.full);
+		throwError(name, 'full', code, expectedOpaque, result.opaque);
 	}
 	if (expectedTransparent !== result.transparent) {
 		throwError(

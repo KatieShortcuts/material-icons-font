@@ -12343,3 +12343,255 @@
 .md-vaccines:before {
   content: '\ebfc';
 }
+
+.md-adobe:after {
+  content: '\ebfd';
+}
+
+.md-apple:after {
+  content: '\ebfe';
+}
+
+.md-arrow_circle_left:after {
+  content: '\ebff';
+}
+
+.md-arrow_circle_left:before {
+  content: '\ec00';
+}
+
+.md-arrow_circle_right:after {
+  content: '\ec01';
+}
+
+.md-arrow_circle_right:before {
+  content: '\ec02';
+}
+
+.md-castle:after {
+  content: '\ec03';
+}
+
+.md-castle:before {
+  content: '\ec04';
+}
+
+.md-church:after {
+  content: '\ec05';
+}
+
+.md-church:before {
+  content: '\ec06';
+}
+
+.md-content_paste_go:after {
+  content: '\ec07';
+}
+
+.md-content_paste_go:before {
+  content: '\ec08';
+}
+
+.md-content_paste_search:after {
+  content: '\ec09';
+}
+
+.md-content_paste_search:before {
+  content: '\ec0a';
+}
+
+.md-cookie:after {
+  content: '\ec0b';
+}
+
+.md-cookie:before {
+  content: '\ec0c';
+}
+
+.md-discord:after {
+  content: '\ec0d';
+}
+
+.md-fitbit:after {
+  content: '\ec0e';
+}
+
+.md-forest:after {
+  content: '\ec0f';
+}
+
+.md-forest:before {
+  content: '\ec10';
+}
+
+.md-fort:after {
+  content: '\ec11';
+}
+
+.md-fort:before {
+  content: '\ec12';
+}
+
+.md-hive:after {
+  content: '\ec13';
+}
+
+.md-hive:before {
+  content: '\ec14';
+}
+
+.md-hub:after {
+  content: '\ec15';
+}
+
+.md-hub:before {
+  content: '\ec16';
+}
+
+.md-kebab_dining:after {
+  content: '\ec17';
+}
+
+.md-kebab_dining:before {
+  content: '\ec18';
+}
+
+.md-line_axis:after {
+  content: '\ec19';
+}
+
+.md-medication_liquid:after {
+  content: '\ec1a';
+}
+
+.md-medication_liquid:before {
+  content: '\ec1b';
+}
+
+.md-monitor_heart:after {
+  content: '\ec1c';
+}
+
+.md-monitor_heart:before {
+  content: '\ec1d';
+}
+
+.md-mosque:after {
+  content: '\ec1e';
+}
+
+.md-mosque:before {
+  content: '\ec1f';
+}
+
+.md-paypal:after {
+  content: '\ec20';
+}
+
+.md-pix:after {
+  content: '\ec21';
+}
+
+.md-punch_clock:after {
+  content: '\ec22';
+}
+
+.md-punch_clock:before {
+  content: '\ec23';
+}
+
+.md-quora:after {
+  content: '\ec24';
+}
+
+.md-reddit:after {
+  content: '\ec25';
+}
+
+.md-rotate_90_degrees_cw:after {
+  content: '\ec26';
+}
+
+.md-rotate_90_degrees_cw:before {
+  content: '\ec27';
+}
+
+.md-shield_moon:after {
+  content: '\ec28';
+}
+
+.md-shield_moon:before {
+  content: '\ec29';
+}
+
+.md-shopify:after {
+  content: '\ec2a';
+}
+
+.md-snapchat:after {
+  content: '\ec2b';
+}
+
+.md-spoke:after {
+  content: '\ec2c';
+}
+
+.md-spoke:before {
+  content: '\ec2d';
+}
+
+.md-synagogue:after {
+  content: '\ec2e';
+}
+
+.md-synagogue:before {
+  content: '\ec2f';
+}
+
+.md-telegram:after {
+  content: '\ec30';
+}
+
+.md-temple_buddhist:after {
+  content: '\ec31';
+}
+
+.md-temple_buddhist:before {
+  content: '\ec32';
+}
+
+.md-temple_hindu:after {
+  content: '\ec33';
+}
+
+.md-temple_hindu:before {
+  content: '\ec34';
+}
+
+.md-tiktok:after {
+  content: '\ec35';
+}
+
+.md-token:after {
+  content: '\ec36';
+}
+
+.md-token:before {
+  content: '\ec37';
+}
+
+.md-wechat:after {
+  content: '\ec38';
+}
+
+.md-whatsapp:after {
+  content: '\ec39';
+}
+
+.md-woo_commerce:after {
+  content: '\ec3a';
+}
+
+.md-wordpress:after {
+  content: '\ec3b';
+}
