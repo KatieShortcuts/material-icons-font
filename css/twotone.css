@@ -12539,3 +12539,143 @@
 .md-wordpress:after {
   content: '\ec3b';
 }
+
+.md-adf_scanner:after {
+  content: '\ec3c';
+}
+
+.md-adf_scanner:before {
+  content: '\ec3d';
+}
+
+.md-candlestick_chart:after {
+  content: '\ec3e';
+}
+
+.md-candlestick_chart:before {
+  content: '\ec3f';
+}
+
+.md-data_array:after {
+  content: '\ec40';
+}
+
+.md-data_object:after {
+  content: '\ec41';
+}
+
+.md-diamond:after {
+  content: '\ec42';
+}
+
+.md-diamond:before {
+  content: '\ec43';
+}
+
+.md-egg:after {
+  content: '\ec44';
+}
+
+.md-egg:before {
+  content: '\ec45';
+}
+
+.md-egg_alt:after {
+  content: '\ec46';
+}
+
+.md-egg_alt:before {
+  content: '\ec47';
+}
+
+.md-fax:after {
+  content: '\ec48';
+}
+
+.md-fax:before {
+  content: '\ec49';
+}
+
+.md-heart_broken:after {
+  content: '\ec4a';
+}
+
+.md-heart_broken:before {
+  content: '\ec4b';
+}
+
+.md-insert_page_break:after {
+  content: '\ec4c';
+}
+
+.md-insert_page_break:before {
+  content: '\ec4d';
+}
+
+.md-key:after {
+  content: '\ec4e';
+}
+
+.md-keyboard_double_arrow_down:after {
+  content: '\ec4f';
+}
+
+.md-keyboard_double_arrow_left:after {
+  content: '\ec50';
+}
+
+.md-keyboard_double_arrow_right:after {
+  content: '\ec51';
+}
+
+.md-keyboard_double_arrow_up:after {
+  content: '\ec52';
+}
+
+.md-logo_dev:after {
+  content: '\ec53';
+}
+
+.md-man:after {
+  content: '\ec54';
+}
+
+.md-numbers:after {
+  content: '\ec55';
+}
+
+.md-phishing:after {
+  content: '\ec56';
+}
+
+.md-route:after {
+  content: '\ec57';
+}
+
+.md-route:before {
+  content: '\ec58';
+}
+
+.md-table_bar:after {
+  content: '\ec59';
+}
+
+.md-table_bar:before {
+  content: '\ec5a';
+}
+
+.md-table_restaurant:after {
+  content: '\ec5b';
+}
+
+.md-table_restaurant:before {
+  content: '\ec5c';
+}
+
+.md-wifi_tethering_error:after {
+  content: '\ec5d';
+}
+
+.md-woman:after {
+  content: '\ec5e';
+}
