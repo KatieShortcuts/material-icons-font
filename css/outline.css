@@ -7883,3 +7883,7 @@
 .md-woman:after {
   content: '\ec5e';
 }
+
+.md-send_time_extension:after {
+  content: '\ec5f';
+}
