@@ -7887,3 +7887,211 @@
 .md-send_time_extension:after {
   content: '\ec5f';
 }
+
+.md-app_shortcut:after {
+  content: '\ec61';
+}
+
+.md-balance:after {
+  content: '\ec63';
+}
+
+.md-cloud_sync:after {
+  content: '\ec65';
+}
+
+.md-co_present:after {
+  content: '\ec67';
+}
+
+.md-commit:after {
+  content: '\ec69';
+}
+
+.md-contrast:after {
+  content: '\ec6a';
+}
+
+.md-currency_franc:after {
+  content: '\ec6b';
+}
+
+.md-currency_lira:after {
+  content: '\ec6c';
+}
+
+.md-currency_pound:after {
+  content: '\ec6d';
+}
+
+.md-currency_ruble:after {
+  content: '\ec6e';
+}
+
+.md-currency_rupee:after {
+  content: '\ec6f';
+}
+
+.md-currency_yen:after {
+  content: '\ec70';
+}
+
+.md-currency_yuan:after {
+  content: '\ec71';
+}
+
+.md-file_open:after {
+  content: '\ec72';
+}
+
+.md-filter_alt_off:after {
+  content: '\ec74';
+}
+
+.md-filter_list_off:after {
+  content: '\ec76';
+}
+
+.md-flag_circle:after {
+  content: '\ec77';
+}
+
+.md-folder_delete:after {
+  content: '\ec79';
+}
+
+.md-folder_zip:after {
+  content: '\ec7b';
+}
+
+.md-hexagon:after {
+  content: '\ec7d';
+}
+
+.md-join_full:after {
+  content: '\ec7f';
+}
+
+.md-join_inner:after {
+  content: '\ec80';
+}
+
+.md-join_left:after {
+  content: '\ec81';
+}
+
+.md-join_right:after {
+  content: '\ec82';
+}
+
+.md-keyboard_command_key:after {
+  content: '\ec83';
+}
+
+.md-keyboard_control_key:after {
+  content: '\ec84';
+}
+
+.md-keyboard_option_key:after {
+  content: '\ec85';
+}
+
+.md-lan:after {
+  content: '\ec86';
+}
+
+.md-lock_reset:after {
+  content: '\ec88';
+}
+
+.md-pentagon:after {
+  content: '\ec89';
+}
+
+.md-percent:after {
+  content: '\ec8b';
+}
+
+.md-pinch:after {
+  content: '\ec8c';
+}
+
+.md-rectangle:after {
+  content: '\ec8e';
+}
+
+.md-satellite_alt:after {
+  content: '\ec90';
+}
+
+.md-sports_martial_arts:after {
+  content: '\ec92';
+}
+
+.md-square:after {
+  content: '\ec93';
+}
+
+.md-start:after {
+  content: '\ec95';
+}
+
+.md-swipe_down:after {
+  content: '\ec96';
+}
+
+.md-swipe_down_alt:after {
+  content: '\ec98';
+}
+
+.md-swipe_left:after {
+  content: '\ec9a';
+}
+
+.md-swipe_left_alt:after {
+  content: '\ec9c';
+}
+
+.md-swipe_right:after {
+  content: '\ec9e';
+}
+
+.md-swipe_right_alt:after {
+  content: '\eca0';
+}
+
+.md-swipe_up:after {
+  content: '\eca2';
+}
+
+.md-swipe_up_alt:after {
+  content: '\eca4';
+}
+
+.md-swipe_vertical:after {
+  content: '\eca6';
+}
+
+.md-sync_lock:after {
+  content: '\eca8';
+}
+
+.md-text_decrease:after {
+  content: '\eca9';
+}
+
+.md-text_increase:after {
+  content: '\ecaa';
+}
+
+.md-watch_off:after {
+  content: '\ecab';
+}
+
+.md-wifi_find:after {
+  content: '\ecad';
+}
+
+.md-zoom_in_map:after {
+  content: '\ecaf';
+}
