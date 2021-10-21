@@ -8095,3 +8095,87 @@
 .md-zoom_in_map:after {
   content: '\ecaf';
 }
+
+.md-assured_workload:after {
+  content: '\ecb0';
+}
+
+.md-bedtime_off:after {
+  content: '\ecb2';
+}
+
+.md-boy:after {
+  content: '\ecb4';
+}
+
+.md-currency_exchange:after {
+  content: '\ecb5';
+}
+
+.md-deblur:after {
+  content: '\ecb6';
+}
+
+.md-domain_add:after {
+  content: '\ecb8';
+}
+
+.md-elderly_woman:after {
+  content: '\ecba';
+}
+
+.md-format_overline:after {
+  content: '\ecbb';
+}
+
+.md-girl:after {
+  content: '\ecbc';
+}
+
+.md-install_desktop:after {
+  content: '\ecbd';
+}
+
+.md-install_mobile:after {
+  content: '\ecbf';
+}
+
+.md-move_down:after {
+  content: '\ecc1';
+}
+
+.md-move_up:after {
+  content: '\ecc3';
+}
+
+.md-save_as:after {
+  content: '\ecc5';
+}
+
+.md-scale:after {
+  content: '\ecc7';
+}
+
+.md-ssid_chart:after {
+  content: '\ecc9';
+}
+
+.md-view_comfy_alt:after {
+  content: '\ecca';
+}
+
+.md-view_compact_alt:after {
+  content: '\eccc';
+}
+
+.md-view_cozy:after {
+  content: '\ecce';
+}
+
+.md-wifi_channel:after {
+  content: '\ecd0';
+}
+
+.md-wifi_password:after {
+  content: '\ecd2';
+}
