@@ -13199,3 +13199,155 @@
 .md-wifi_password:after {
   content: '\ecd2';
 }
+
+.md-123:after {
+  content: '\ecd3';
+}
+
+.md-abc:after {
+  content: '\ecd4';
+}
+
+.md-add_card:after {
+  content: '\ecd5';
+}
+
+.md-audio_file:after {
+  content: '\ecd6';
+}
+
+.md-audio_file:before {
+  content: '\ecd7';
+}
+
+.md-css:after {
+  content: '\ecd8';
+}
+
+.md-difference:after {
+  content: '\ecd9';
+}
+
+.md-difference:before {
+  content: '\ecda';
+}
+
+.md-event_repeat:after {
+  content: '\ecdb';
+}
+
+.md-event_repeat:before {
+  content: '\ecdc';
+}
+
+.md-folder_off:after {
+  content: '\ecdd';
+}
+
+.md-folder_off:before {
+  content: '\ecde';
+}
+
+.md-hls:after {
+  content: '\ecdf';
+}
+
+.md-hls_off:after {
+  content: '\ece0';
+}
+
+.md-html:after {
+  content: '\ece1';
+}
+
+.md-javascript:after {
+  content: '\ece2';
+}
+
+.md-key_off:after {
+  content: '\ece3';
+}
+
+.md-key_off:before {
+  content: '\ece4';
+}
+
+.md-newspaper:after {
+  content: '\ece5';
+}
+
+.md-php:after {
+  content: '\ece6';
+}
+
+.md-playlist_remove:after {
+  content: '\ece7';
+}
+
+.md-question_mark:after {
+  content: '\ece8';
+}
+
+.md-shopping_cart_checkout:after {
+  content: '\ece9';
+}
+
+.md-signpost:after {
+  content: '\ecea';
+}
+
+.md-signpost:before {
+  content: '\eceb';
+}
+
+.md-stadium:after {
+  content: '\ecec';
+}
+
+.md-stadium:before {
+  content: '\eced';
+}
+
+.md-terminal:after {
+  content: '\ecee';
+}
+
+.md-terminal:before {
+  content: '\ecef';
+}
+
+.md-video_file:after {
+  content: '\ecf0';
+}
+
+.md-video_file:before {
+  content: '\ecf1';
+}
+
+.md-view_kanban:after {
+  content: '\ecf2';
+}
+
+.md-view_kanban:before {
+  content: '\ecf3';
+}
+
+.md-view_timeline:after {
+  content: '\ecf4';
+}
+
+.md-view_timeline:before {
+  content: '\ecf5';
+}
+
+.md-vpn_key_off:after {
+  content: '\ecf6';
+}
+
+.md-vpn_key_off:before {
+  content: '\ecf7';
+}
+
+.md-webhook:after {
+  content: '\ecf8';
+}

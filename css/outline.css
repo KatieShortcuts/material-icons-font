@@ -8179,3 +8179,107 @@
 .md-wifi_password:after {
   content: '\ecd2';
 }
+
+.md-123:after {
+  content: '\ecd3';
+}
+
+.md-abc:after {
+  content: '\ecd4';
+}
+
+.md-add_card:after {
+  content: '\ecd5';
+}
+
+.md-audio_file:after {
+  content: '\ecd6';
+}
+
+.md-css:after {
+  content: '\ecd8';
+}
+
+.md-difference:after {
+  content: '\ecd9';
+}
+
+.md-event_repeat:after {
+  content: '\ecdb';
+}
+
+.md-folder_off:after {
+  content: '\ecdd';
+}
+
+.md-hls:after {
+  content: '\ecdf';
+}
+
+.md-hls_off:after {
+  content: '\ece0';
+}
+
+.md-html:after {
+  content: '\ece1';
+}
+
+.md-javascript:after {
+  content: '\ece2';
+}
+
+.md-key_off:after {
+  content: '\ece3';
+}
+
+.md-newspaper:after {
+  content: '\ece5';
+}
+
+.md-php:after {
+  content: '\ece6';
+}
+
+.md-playlist_remove:after {
+  content: '\ece7';
+}
+
+.md-question_mark:after {
+  content: '\ece8';
+}
+
+.md-shopping_cart_checkout:after {
+  content: '\ece9';
+}
+
+.md-signpost:after {
+  content: '\ecea';
+}
+
+.md-stadium:after {
+  content: '\ecec';
+}
+
+.md-terminal:after {
+  content: '\ecee';
+}
+
+.md-video_file:after {
+  content: '\ecf0';
+}
+
+.md-view_kanban:after {
+  content: '\ecf2';
+}
+
+.md-view_timeline:after {
+  content: '\ecf4';
+}
+
+.md-vpn_key_off:after {
+  content: '\ecf6';
+}
+
+.md-webhook:after {
+  content: '\ecf8';
+}
