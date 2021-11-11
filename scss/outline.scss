@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
-$font-path: '../font/';
+$font-path: '../font/' !default;
 
-$default-family: 'Material Icons Outlined';
-$default-theme: 'outline';
-$default-filename: 'MaterialIcons-Outlined';
+$default-family: 'Material Icons Outlined' !default;
+$default-theme: 'outline' !default;
+$default-filename: 'MaterialIcons-Outlined' !default;
 
 $extra-themes: (
   

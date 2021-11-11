@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
-$font-path: '{font-path}';
+$font-path: '{font-path}' !default;
 
-$default-family: '{default-family}';
-$default-theme: '{default-theme}';
-$default-filename: '{default-filename}';
+$default-family: '{default-family}' !default;
+$default-theme: '{default-theme}' !default;
+$default-filename: '{default-filename}' !default;
 
 $extra-themes: (
   /*themes*/
