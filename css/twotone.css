@@ -13295,3 +13295,147 @@
 .md-webhook:after {
   content: '\ecf8';
 }
+
+.md-cell_tower:after {
+  content: '\ecf9';
+}
+
+.md-data_thresholding:after {
+  content: '\ecfa';
+}
+
+.md-data_thresholding:before {
+  content: '\ecfb';
+}
+
+.md-density_large:after {
+  content: '\ecfc';
+}
+
+.md-density_medium:after {
+  content: '\ecfd';
+}
+
+.md-density_small:after {
+  content: '\ecfe';
+}
+
+.md-deselect:after {
+  content: '\ecff';
+}
+
+.md-display_settings:after {
+  content: '\ed00';
+}
+
+.md-display_settings:before {
+  content: '\ed01';
+}
+
+.md-factory:after {
+  content: '\ed02';
+}
+
+.md-factory:before {
+  content: '\ed03';
+}
+
+.md-fork_left:after {
+  content: '\ed04';
+}
+
+.md-fork_right:after {
+  content: '\ed05';
+}
+
+.md-mark_unread_chat_alt:after {
+  content: '\ed06';
+}
+
+.md-mark_unread_chat_alt:before {
+  content: '\ed07';
+}
+
+.md-merge:after {
+  content: '\ed08';
+}
+
+.md-pan_tool_alt:after {
+  content: '\ed09';
+}
+
+.md-pan_tool_alt:before {
+  content: '\ed0a';
+}
+
+.md-polyline:after {
+  content: '\ed0b';
+}
+
+.md-polyline:before {
+  content: '\ed0c';
+}
+
+.md-ramp_left:after {
+  content: '\ed0d';
+}
+
+.md-ramp_right:after {
+  content: '\ed0e';
+}
+
+.md-rocket_launch:after {
+  content: '\ed0f';
+}
+
+.md-rocket_launch:before {
+  content: '\ed10';
+}
+
+.md-roundabout_left:after {
+  content: '\ed11';
+}
+
+.md-roundabout_right:after {
+  content: '\ed12';
+}
+
+.md-straight:after {
+  content: '\ed13';
+}
+
+.md-turn_left:after {
+  content: '\ed14';
+}
+
+.md-turn_right:after {
+  content: '\ed15';
+}
+
+.md-turn_sharp_left:after {
+  content: '\ed16';
+}
+
+.md-turn_sharp_right:after {
+  content: '\ed17';
+}
+
+.md-turn_slight_left:after {
+  content: '\ed18';
+}
+
+.md-turn_slight_right:after {
+  content: '\ed19';
+}
+
+.md-u_turn_left:after {
+  content: '\ed1a';
+}
+
+.md-u_turn_right:after {
+  content: '\ed1b';
+}
+
+.md-warehouse:after {
+  content: '\ed1c';
+}
