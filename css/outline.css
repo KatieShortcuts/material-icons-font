@@ -8399,3 +8399,7 @@
 .md-warehouse:after {
   content: '\ed1c';
 }
+
+.md-save_all:after {
+  content: '\ed1d';
+}
