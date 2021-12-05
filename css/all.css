@@ -13503,3 +13503,103 @@
 .md-save_all:before {
   content: '\ed1e';
 }
+
+.md-browse_gallery:after {
+  content: '\ed1f';
+}
+
+.md-browse_gallery:before {
+  content: '\ed20';
+}
+
+.md-calendar_month:after {
+  content: '\ed21';
+}
+
+.md-calendar_month:before {
+  content: '\ed22';
+}
+
+.md-currency_bitcoin:after {
+  content: '\ed23';
+}
+
+.md-discount:after {
+  content: '\ed24';
+}
+
+.md-discount:before {
+  content: '\ed25';
+}
+
+.md-folder_copy:after {
+  content: '\ed26';
+}
+
+.md-folder_copy:before {
+  content: '\ed27';
+}
+
+.md-handshake:after {
+  content: '\ed28';
+}
+
+.md-handshake:before {
+  content: '\ed29';
+}
+
+.md-network_ping:after {
+  content: '\ed2a';
+}
+
+.md-output:after {
+  content: '\ed2b';
+}
+
+.md-roller_skating:after {
+  content: '\ed2c';
+}
+
+.md-roller_skating:before {
+  content: '\ed2d';
+}
+
+.md-scoreboard:after {
+  content: '\ed2e';
+}
+
+.md-scoreboard:before {
+  content: '\ed2f';
+}
+
+.md-scuba_diving:after {
+  content: '\ed30';
+}
+
+.md-sports_gymnastics:after {
+  content: '\ed31';
+}
+
+.md-tire_repair:after {
+  content: '\ed32';
+}
+
+.md-tire_repair:before {
+  content: '\ed33';
+}
+
+.md-vape_free:after {
+  content: '\ed34';
+}
+
+.md-vape_free:before {
+  content: '\ed35';
+}
+
+.md-vaping_rooms:after {
+  content: '\ed36';
+}
+
+.md-vaping_rooms:before {
+  content: '\ed37';
+}
