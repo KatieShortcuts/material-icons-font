@@ -8463,3 +8463,171 @@
 .md-vaping_rooms:after {
   content: '\ed36';
 }
+
+.md-battery_0_bar:after {
+  content: '\ed38';
+}
+
+.md-battery_1_bar:after {
+  content: '\ed3a';
+}
+
+.md-battery_2_bar:after {
+  content: '\ed3c';
+}
+
+.md-battery_3_bar:after {
+  content: '\ed3e';
+}
+
+.md-battery_4_bar:after {
+  content: '\ed40';
+}
+
+.md-battery_5_bar:after {
+  content: '\ed42';
+}
+
+.md-battery_6_bar:after {
+  content: '\ed44';
+}
+
+.md-car_crash:after {
+  content: '\ed46';
+}
+
+.md-crisis_alert:after {
+  content: '\ed48';
+}
+
+.md-cyclone:after {
+  content: '\ed49';
+}
+
+.md-devices_fold:after {
+  content: '\ed4b';
+}
+
+.md-emergency_recording:after {
+  content: '\ed4d';
+}
+
+.md-emergency_share:after {
+  content: '\ed4f';
+}
+
+.md-flood:after {
+  content: '\ed51';
+}
+
+.md-landslide:after {
+  content: '\ed53';
+}
+
+.md-lightbulb_circle:after {
+  content: '\ed55';
+}
+
+.md-manage_history:after {
+  content: '\ed57';
+}
+
+.md-medical_information:after {
+  content: '\ed58';
+}
+
+.md-minor_crash:after {
+  content: '\ed5a';
+}
+
+.md-network_wifi_1_bar:after {
+  content: '\ed5c';
+}
+
+.md-network_wifi_2_bar:after {
+  content: '\ed5e';
+}
+
+.md-network_wifi_3_bar:after {
+  content: '\ed60';
+}
+
+.md-no_crash:after {
+  content: '\ed62';
+}
+
+.md-noise_aware:after {
+  content: '\ed64';
+}
+
+.md-noise_control_off:after {
+  content: '\ed65';
+}
+
+.md-on_device_training:after {
+  content: '\ed66';
+}
+
+.md-remove_road:after {
+  content: '\ed68';
+}
+
+.md-safety_check:after {
+  content: '\ed69';
+}
+
+.md-screen_rotation_alt:after {
+  content: '\ed6b';
+}
+
+.md-severe_cold:after {
+  content: '\ed6c';
+}
+
+.md-sign_language:after {
+  content: '\ed6d';
+}
+
+.md-signal_cellular_alt_1_bar:after {
+  content: '\ed6f';
+}
+
+.md-signal_cellular_alt_2_bar:after {
+  content: '\ed70';
+}
+
+.md-sos:after {
+  content: '\ed71';
+}
+
+.md-spatial_audio:after {
+  content: '\ed72';
+}
+
+.md-spatial_audio_off:after {
+  content: '\ed74';
+}
+
+.md-spatial_tracking:after {
+  content: '\ed76';
+}
+
+.md-thunderstorm:after {
+  content: '\ed78';
+}
+
+.md-tsunami:after {
+  content: '\ed7a';
+}
+
+.md-volcano:after {
+  content: '\ed7c';
+}
+
+.md-wifi_1_bar:after {
+  content: '\ed7e';
+}
+
+.md-wifi_2_bar:after {
+  content: '\ed7f';
+}
