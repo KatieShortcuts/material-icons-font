@@ -8631,3 +8631,107 @@
 .md-wifi_2_bar:after {
   content: '\ed7f';
 }
+
+.md-auto_mode:after {
+  content: '\ed80';
+}
+
+.md-blinds_closed:after {
+  content: '\ed81';
+}
+
+.md-curtains:after {
+  content: '\ed83';
+}
+
+.md-curtains_closed:after {
+  content: '\ed85';
+}
+
+.md-electric_bolt:after {
+  content: '\ed87';
+}
+
+.md-electric_meter:after {
+  content: '\ed88';
+}
+
+.md-energy_savings_leaf:after {
+  content: '\ed8a';
+}
+
+.md-gas_meter:after {
+  content: '\ed8c';
+}
+
+.md-heat_pump:after {
+  content: '\ed8e';
+}
+
+.md-lyrics:after {
+  content: '\ed90';
+}
+
+.md-mail_lock:after {
+  content: '\ed92';
+}
+
+.md-mode_fan_off:after {
+  content: '\ed94';
+}
+
+.md-nest_cam_wired_stand:after {
+  content: '\ed96';
+}
+
+.md-oil_barrel:after {
+  content: '\ed98';
+}
+
+.md-propane:after {
+  content: '\ed9a';
+}
+
+.md-propane_tank:after {
+  content: '\ed9c';
+}
+
+.md-roller_shades:after {
+  content: '\ed9e';
+}
+
+.md-roller_shades_closed:after {
+  content: '\eda0';
+}
+
+.md-screenshot_monitor:after {
+  content: '\eda2';
+}
+
+.md-sensor_occupied:after {
+  content: '\eda4';
+}
+
+.md-solar_power:after {
+  content: '\eda6';
+}
+
+.md-tornado:after {
+  content: '\eda8';
+}
+
+.md-vertical_shades:after {
+  content: '\edaa';
+}
+
+.md-vertical_shades_closed:after {
+  content: '\edac';
+}
+
+.md-wind_power:after {
+  content: '\edae';
+}
+
+.md-work_history:after {
+  content: '\edb0';
+}

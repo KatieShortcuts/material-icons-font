@@ -13891,3 +13891,203 @@
 .md-wifi_2_bar:after {
   content: '\ed7f';
 }
+
+.md-auto_mode:after {
+  content: '\ed80';
+}
+
+.md-blinds_closed:after {
+  content: '\ed81';
+}
+
+.md-blinds_closed:before {
+  content: '\ed82';
+}
+
+.md-curtains:after {
+  content: '\ed83';
+}
+
+.md-curtains:before {
+  content: '\ed84';
+}
+
+.md-curtains_closed:after {
+  content: '\ed85';
+}
+
+.md-curtains_closed:before {
+  content: '\ed86';
+}
+
+.md-electric_bolt:after {
+  content: '\ed87';
+}
+
+.md-electric_meter:after {
+  content: '\ed88';
+}
+
+.md-electric_meter:before {
+  content: '\ed89';
+}
+
+.md-energy_savings_leaf:after {
+  content: '\ed8a';
+}
+
+.md-energy_savings_leaf:before {
+  content: '\ed8b';
+}
+
+.md-gas_meter:after {
+  content: '\ed8c';
+}
+
+.md-gas_meter:before {
+  content: '\ed8d';
+}
+
+.md-heat_pump:after {
+  content: '\ed8e';
+}
+
+.md-heat_pump:before {
+  content: '\ed8f';
+}
+
+.md-lyrics:after {
+  content: '\ed90';
+}
+
+.md-lyrics:before {
+  content: '\ed91';
+}
+
+.md-mail_lock:after {
+  content: '\ed92';
+}
+
+.md-mail_lock:before {
+  content: '\ed93';
+}
+
+.md-mode_fan_off:after {
+  content: '\ed94';
+}
+
+.md-mode_fan_off:before {
+  content: '\ed95';
+}
+
+.md-nest_cam_wired_stand:after {
+  content: '\ed96';
+}
+
+.md-nest_cam_wired_stand:before {
+  content: '\ed97';
+}
+
+.md-oil_barrel:after {
+  content: '\ed98';
+}
+
+.md-oil_barrel:before {
+  content: '\ed99';
+}
+
+.md-propane:after {
+  content: '\ed9a';
+}
+
+.md-propane:before {
+  content: '\ed9b';
+}
+
+.md-propane_tank:after {
+  content: '\ed9c';
+}
+
+.md-propane_tank:before {
+  content: '\ed9d';
+}
+
+.md-roller_shades:after {
+  content: '\ed9e';
+}
+
+.md-roller_shades:before {
+  content: '\ed9f';
+}
+
+.md-roller_shades_closed:after {
+  content: '\eda0';
+}
+
+.md-roller_shades_closed:before {
+  content: '\eda1';
+}
+
+.md-screenshot_monitor:after {
+  content: '\eda2';
+}
+
+.md-screenshot_monitor:before {
+  content: '\eda3';
+}
+
+.md-sensor_occupied:after {
+  content: '\eda4';
+}
+
+.md-sensor_occupied:before {
+  content: '\eda5';
+}
+
+.md-solar_power:after {
+  content: '\eda6';
+}
+
+.md-solar_power:before {
+  content: '\eda7';
+}
+
+.md-tornado:after {
+  content: '\eda8';
+}
+
+.md-tornado:before {
+  content: '\eda9';
+}
+
+.md-vertical_shades:after {
+  content: '\edaa';
+}
+
+.md-vertical_shades:before {
+  content: '\edab';
+}
+
+.md-vertical_shades_closed:after {
+  content: '\edac';
+}
+
+.md-vertical_shades_closed:before {
+  content: '\edad';
+}
+
+.md-wind_power:after {
+  content: '\edae';
+}
+
+.md-wind_power:before {
+  content: '\edaf';
+}
+
+.md-work_history:after {
+  content: '\edb0';
+}
+
+.md-work_history:before {
+  content: '\edb1';
+}
