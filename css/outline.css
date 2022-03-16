@@ -8735,3 +8735,47 @@
 .md-work_history:after {
   content: '\edb0';
 }
+
+.md-18_up_rating:after {
+  content: '\edb2';
+}
+
+.md-blinds:after {
+  content: '\edb4';
+}
+
+.md-broadcast_on_home:after {
+  content: '\edb6';
+}
+
+.md-broadcast_on_personal:after {
+  content: '\edb8';
+}
+
+.md-desk:after {
+  content: '\edba';
+}
+
+.md-lock_person:after {
+  content: '\edbc';
+}
+
+.md-no_adult_content:after {
+  content: '\edbe';
+}
+
+.md-wallet:after {
+  content: '\edbf';
+}
+
+.md-width_full:after {
+  content: '\edc1';
+}
+
+.md-width_normal:after {
+  content: '\edc3';
+}
+
+.md-width_wide:after {
+  content: '\edc5';
+}

@@ -14035,3 +14035,87 @@
 .md-work_history:before {
   content: '\edb1';
 }
+
+.md-18_up_rating:after {
+  content: '\edb2';
+}
+
+.md-18_up_rating:before {
+  content: '\edb3';
+}
+
+.md-blinds:after {
+  content: '\edb4';
+}
+
+.md-blinds:before {
+  content: '\edb5';
+}
+
+.md-broadcast_on_home:after {
+  content: '\edb6';
+}
+
+.md-broadcast_on_home:before {
+  content: '\edb7';
+}
+
+.md-broadcast_on_personal:after {
+  content: '\edb8';
+}
+
+.md-broadcast_on_personal:before {
+  content: '\edb9';
+}
+
+.md-desk:after {
+  content: '\edba';
+}
+
+.md-desk:before {
+  content: '\edbb';
+}
+
+.md-lock_person:after {
+  content: '\edbc';
+}
+
+.md-lock_person:before {
+  content: '\edbd';
+}
+
+.md-no_adult_content:after {
+  content: '\edbe';
+}
+
+.md-wallet:after {
+  content: '\edbf';
+}
+
+.md-wallet:before {
+  content: '\edc0';
+}
+
+.md-width_full:after {
+  content: '\edc1';
+}
+
+.md-width_full:before {
+  content: '\edc2';
+}
+
+.md-width_normal:after {
+  content: '\edc3';
+}
+
+.md-width_normal:before {
+  content: '\edc4';
+}
+
+.md-width_wide:after {
+  content: '\edc5';
+}
+
+.md-width_wide:before {
+  content: '\edc6';
+}
