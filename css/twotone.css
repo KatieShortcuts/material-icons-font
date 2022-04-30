@@ -14119,3 +14119,251 @@
 .md-width_wide:before {
   content: '\edc6';
 }
+
+.md-add_home:after {
+  content: '\edc7';
+}
+
+.md-add_home:before {
+  content: '\edc8';
+}
+
+.md-add_home_work:after {
+  content: '\edc9';
+}
+
+.md-add_home_work:before {
+  content: '\edca';
+}
+
+.md-arrow_outward:after {
+  content: '\edcb';
+}
+
+.md-assist_walker:after {
+  content: '\edcc';
+}
+
+.md-blind:after {
+  content: '\edcd';
+}
+
+.md-contact_emergency:after {
+  content: '\edce';
+}
+
+.md-contact_emergency:before {
+  content: '\edcf';
+}
+
+.md-dataset:after {
+  content: '\edd0';
+}
+
+.md-dataset:before {
+  content: '\edd1';
+}
+
+.md-dataset_linked:after {
+  content: '\edd2';
+}
+
+.md-dataset_linked:before {
+  content: '\edd3';
+}
+
+.md-diversity_1:after {
+  content: '\edd4';
+}
+
+.md-diversity_1:before {
+  content: '\edd5';
+}
+
+.md-diversity_2:after {
+  content: '\edd6';
+}
+
+.md-diversity_2:before {
+  content: '\edd7';
+}
+
+.md-diversity_3:after {
+  content: '\edd8';
+}
+
+.md-face_2:after {
+  content: '\edd9';
+}
+
+.md-face_2:before {
+  content: '\edda';
+}
+
+.md-face_3:after {
+  content: '\eddb';
+}
+
+.md-face_3:before {
+  content: '\eddc';
+}
+
+.md-face_4:after {
+  content: '\eddd';
+}
+
+.md-face_4:before {
+  content: '\edde';
+}
+
+.md-face_5:after {
+  content: '\eddf';
+}
+
+.md-face_6:after {
+  content: '\ede0';
+}
+
+.md-face_6:before {
+  content: '\ede1';
+}
+
+.md-fire_hydrant_alt:after {
+  content: '\ede2';
+}
+
+.md-fire_hydrant_alt:before {
+  content: '\ede3';
+}
+
+.md-fire_truck:after {
+  content: '\ede4';
+}
+
+.md-fire_truck:before {
+  content: '\ede5';
+}
+
+.md-groups_2:after {
+  content: '\ede6';
+}
+
+.md-groups_2:before {
+  content: '\ede7';
+}
+
+.md-groups_3:after {
+  content: '\ede8';
+}
+
+.md-groups_3:before {
+  content: '\ede9';
+}
+
+.md-macro_off:after {
+  content: '\edea';
+}
+
+.md-macro_off:before {
+  content: '\edeb';
+}
+
+.md-man_2:after {
+  content: '\edec';
+}
+
+.md-man_3:after {
+  content: '\eded';
+}
+
+.md-man_4:after {
+  content: '\edee';
+}
+
+.md-person_2:after {
+  content: '\edef';
+}
+
+.md-person_2:before {
+  content: '\edf0';
+}
+
+.md-person_3:after {
+  content: '\edf1';
+}
+
+.md-person_3:before {
+  content: '\edf2';
+}
+
+.md-person_4:after {
+  content: '\edf3';
+}
+
+.md-person_4:before {
+  content: '\edf4';
+}
+
+.md-psychology_alt:after {
+  content: '\edf5';
+}
+
+.md-psychology_alt:before {
+  content: '\edf6';
+}
+
+.md-repartition:after {
+  content: '\edf7';
+}
+
+.md-repartition:before {
+  content: '\edf8';
+}
+
+.md-shape_line:after {
+  content: '\edf9';
+}
+
+.md-shape_line:before {
+  content: '\edfa';
+}
+
+.md-transcribe:after {
+  content: '\edfb';
+}
+
+.md-transcribe:before {
+  content: '\edfc';
+}
+
+.md-troubleshoot:after {
+  content: '\edfd';
+}
+
+.md-type_specimen:after {
+  content: '\edfe';
+}
+
+.md-type_specimen:before {
+  content: '\edff';
+}
+
+.md-unfold_less_double:after {
+  content: '\ee00';
+}
+
+.md-unfold_more_double:after {
+  content: '\ee01';
+}
+
+.md-web_stories:after {
+  content: '\ee02';
+}
+
+.md-web_stories:before {
+  content: '\ee03';
+}
+
+.md-woman_2:after {
+  content: '\ee04';
+}
