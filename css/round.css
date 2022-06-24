@@ -8927,3 +8927,7 @@
 .md-woman_2:after {
   content: '\ee04';
 }
+
+.md-fluorescent:after {
+  content: '\ee05';
+}
