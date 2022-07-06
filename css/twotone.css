@@ -14375,3 +14375,11 @@
 .md-fluorescent:before {
   content: '\ee06';
 }
+
+.md-video_chat:after {
+  content: '\ee07';
+}
+
+.md-video_chat:before {
+  content: '\ee08';
+}

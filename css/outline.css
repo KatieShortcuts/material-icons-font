@@ -8931,3 +8931,7 @@
 .md-fluorescent:after {
   content: '\ee05';
 }
+
+.md-video_chat:after {
+  content: '\ee07';
+}
